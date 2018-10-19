@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>bai tap js 2</title>
+	</head>
+	<body>
+		<h1>JavaScript Can Change Image</h1>
+		<img id="myImage" onclick="changeImage()" src="hinh 1.gif" name="h1" width="100" hight="180">
+		<p>Click the light bulb to turn on/off the light.</p>
+		<script>
+        function changeImage() {
+        	var image = document.getElementById('myImage');
+        	if (image.name=="h1") {
+        		image.src ="hinh 2.gif";
+        		image.name="h2";
+        	} else {
+                image.src ="hinh 1.gif";
+                image.name="h1";
+        	}
+        }
+		</script>
+	</body>
+</html>

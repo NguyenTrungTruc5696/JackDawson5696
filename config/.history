@@ -1,0 +1,38 @@
+git config --global user.name NguyenTrungTruc
+git config --global user.name NguyenTrungTruc5696
+git config --global user.email 1651012210truc@ou.edu.vn
+echo "# JackDawson5696" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/NguyenTrungTruc5696/JackDawson5696.git
+git push origin máter
+git push origin master 
+git commit -m "Push File" code.txt
+git status
+git add <code.txt>
+git commit -m "Add File" code.txt
+git push origin mastes 
+git commit -m "Push File" code.txt
+git add <code.txt>
+git commit -m "Add File" code.txt
+git push origin mastes 
+git add " ALL FILE "
+git add <file>
+git config --global user.name"NguyenTrungTruc5696"
+git config --global user.email 1651012210truc@ou.edu.vn
+git commit - m "Myapp" *
+git commit -m "Myapp" *
+git add -A *
+git reset HEAD --hard
+git add "truc2"
+git add truc3.html
+git status
+git add "truc2"
+git add truc3.html
+git add baitap loop
+git add baitap look/
+git add "baitap loop/"
+git commit -m"baitap loop"*
+git push origin master
+git status
