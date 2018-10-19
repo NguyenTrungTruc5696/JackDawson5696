@@ -1,0 +1,15 @@
+<html>
+	<body>
+		<p>The shift method removes the frist element of an array, and "shift" all other element one place up.</p>
+		<button onclick ="myFunction()">Try it</button>
+		<p id="demo"></p>
+		<script>
+            var fruits =["Banana", "Orange","Apple", "Mango"];
+            document.getElementById("demo").innerHTML = fruits;
+            function myFunction() {
+            	fruits.shift();
+            	document.getElementById("demo").innerHTML = fruits;
+            }
+		</script>
+	</body>
+</html>
