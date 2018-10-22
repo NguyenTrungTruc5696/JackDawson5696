@@ -1,0 +1,20 @@
+<html>
+	<head>
+			<script>
+			function curr_Location()
+			{
+				alert(location.href)
+			}
+			function change_Location()
+			{
+				window.location="http://google.com";
+			}
+			</script>
+	</head>
+	<body>
+		<form>
+			<input type="button" onClick="curr_Location()" value="Show current URL">
+			<input type="button" onClick="change_Location()" value="Change URL">
+		</form>
+	</body>
+</html>
