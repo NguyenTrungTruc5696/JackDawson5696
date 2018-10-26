@@ -60,3 +60,41 @@ git comit -m"message" *
 git commit -m"message" *
 git push origin master
 git status
+git add truc3.html
+git add baitap loop
+git add baitap look/
+git add "baitap loop/"
+git commit -m"baitap loop"*
+git push origin master
+git status
+git config --global user.name"NguyenTrungTruc5696"
+git config --global user.email 1651012210truc@ou.edu.vn
+git commit - m "Myapp" *
+git commit -m "Myapp" *
+git add -A *
+git reset HEAD --hard
+git add "truc2"
+git add truc3.html
+git status
+git add "truc2"
+git add truc3.html
+git add baitap look/
+git add "baitap loop/"
+git commit -m"baitap loop"*
+git commit -m"baitap loop" *
+ git config --global user.email "1651012210truc@ou.edu.vn"
+git add baitap loop
+git add "baitap array"
+git comit -m"message" *
+gi
+git config --global user.email "1651012210truc@ou.edu.vn"
+git config --global user.name "NguyenTrungTruc5696"
+cd truc
+cd /truc
+cd../bai tap function
+git up date
+git tatus
+git add *
+git commit -m"message" *
+git push origin master
+git status
