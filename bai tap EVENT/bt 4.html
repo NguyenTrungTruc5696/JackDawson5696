@@ -1,0 +1,24 @@
+<html>
+	<body>
+		<script>
+		//hàm tính kết quả
+		function tinh ()
+		{
+			//lấy 3 ô input
+			var a = document.getElementById("a");
+			var b = document.getElementById("b");
+			var result = document.getElementById("result");
+			// tính tổng 2 ô đầu tiên
+			var tong = parseInt(a.value) + parseInt(b.value);
+			//gán giá trị vào ô thứ ba
+			//phải kiểm tra tổng hai số này có bị lỗi hay không
+			if(!isNaN(tong)) {
+				result.value = tong ;
+			}
+		}
+		</script>
+		a:<input type="text" id="a" value="" onkeyup="tinh()"/><br/>
+		b:<input type="text" id="b" value="" onkeyup="tinh()"/><br/>
+		kết quả:<input type="text" id="result" value=""/ >
+	</body>
+</html>
