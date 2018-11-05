@@ -116,3 +116,14 @@ git status
 git add *
 git commit -m"message" *
 git push origin master
+cd../bai tap function
+git up date
+git tatus
+ git config --global user.email "1651012210truc@ou.edu.vn"
+git commit -m"mesage" *
+git config --global user.email "1651012210truc@ou.edu.vn"
+git config --global user.name "NguyenTrungTruc5696"
+git add *
+git commit -m"message" *
+git push origin master
+git status
