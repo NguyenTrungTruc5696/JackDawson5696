@@ -150,3 +150,24 @@ git commit -m"message" *
 git push origin máter
 git push origin master 
 git status
+git commit - m"message" *
+ git config --global user.email "1651012210truc@ou.edu.vn"
+ git config --global user.name "NguyenTrungTruc5696"
+git push origin máter
+git push origin master 
+git config --global user.email "1651012210truc@ou.edu.vn"
+git config --global user.name "NguyenTrungTruc5696"
+git add *
+git commit -m"message" *
+git push origin master
+git status
+npm --version
+npm install -g create-react-app
+npm install create-react-app
+create-react-app -version
+create-react-app --version
+create-react-app myapp
+cd myapp
+npm start
+git status
+git add *
