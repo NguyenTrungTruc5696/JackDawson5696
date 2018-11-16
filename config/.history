@@ -274,3 +274,47 @@ git add *
 git commit -m"message" *
 git push origin master
 git status
+create-react-app --version
+create-react-app myapp
+npm start
+ git config --global user.email "1651012210truc@ou.edu.vn"
+ git config --global user.name "NguyenTrungTruc5696"
+ git config --global user.email "1651012210truc@ou.edu.vn"
+npm install -g create-react-app
+npm install create-react-app
+git commit -"message" *
+git clone https://github.com/NguyenTrungTruc5696/visitgo.git
+cd Myapp
+mv myapp/ visitgo
+git init
+git commit -m"first commit" *
+ git config --global user.name "NguyenTrungTruc5696"
+git pussh origin master
+git remote add origin https://github.com/NguyenTrungTruc5696/visitgo.git
+git push -u origin master
+git push
+git push --set-upstream origin master
+git pull
+git pull https://github.com/NguyenTrungTruc5696/visitgo.git master
+git pull -u origin master
+git pull origin master
+cd ..
+git clone https://github.com/NguyenTrungTruc5696/visitgo.git test
+cd visitgo\
+git add -A *
+git commit -m "First commit"
+git config --global user.email "1651012210truc@ou.edu.vn"
+git config --global user.name "NguyenTrungTruc5696"
+git commit -m'
+git add *
+git commit -m"message" *
+git push origin master
+LS
+cd myapp
+cd..
+git status
+cd bai tap ES6
+cd visitgo
+ls
+npm i react-bootstrap
+npm run start
