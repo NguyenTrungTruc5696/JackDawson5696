@@ -352,3 +352,30 @@ cd bai tap ES6
 cd visitgo
 npm install
 npm --save bootstrap@3.3.7
+cd bai tap ES6
+cd visitgo
+npm run start
+cd bai tap ES6
+cd visitgo
+npm install bootstrap
+npm --save bootstrap@3.3.7
+npm run start
+cd bai tap ES6
+cd visitgo
+cd bai tap ES6
+npm install
+npm --save bootstrap@3.3.7
+  git config --global user.email "1651012210truc@ou.edu.vn"
+  git config --global user.name "NguyenTrungTruc5696"
+ls
+cd bai tap ES6 
+cd visitgo
+git add *
+git commit -m"message" *
+git push origin master 
+git status
+npm run start
+npm run start
+cd bai tap ES6 
+cd visitgo
+npm run start 
