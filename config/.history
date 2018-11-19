@@ -318,3 +318,37 @@ cd visitgo
 ls
 npm i react-bootstrap
 npm run start
+git commit -m "First commit"
+git config --global user.email "1651012210truc@ou.edu.vn"
+git config --global user.name "NguyenTrungTruc5696"
+git commit -m'
+LS
+cd myapp
+cd..
+ls
+npm i react-bootstrap
+cd bai tap ES6
+cd visitgo
+git add *
+git commit -m"message" *
+git push origin master
+git status
+npm build run
+npm install --save bootstrap@3.3.7
+npm run start
+npm install --save bootstrap@3.3.7
+cd bai tap ES6
+cd visitgo
+npm run start
+cd bai tap ES6
+cd visitgo
+npm install bootstrap
+npm --save bootstrap@3.3.7
+npm run start
+cd bai tap ES6
+cd visitgo
+npm run start
+cd bai tap ES6
+cd visitgo
+npm install
+npm --save bootstrap@3.3.7
