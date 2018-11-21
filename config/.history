@@ -379,3 +379,55 @@ npm run start
 cd bai tap ES6 
 cd visitgo
 npm run start 
+  git config --global user.email "1651012210truc@ou.edu.vn"
+  git config --global user.name "NguyenTrungTruc5696"
+ls
+cd bai tap ES6 
+cd visitgo
+npm run start
+cd visitgo
+npm run start 
+git push origin master 
+cd bai tap ES6 
+cd visitgo 
+git add *
+git commit -m"message" *
+git push origon master 
+git status
+npm run start
+cd bai tap ES6
+cd visitgo 
+git add *
+git commit -m"message" *
+git push origin master 
+npm run start
+cd bai tap ES6 
+cd visitgo 
+git add *
+git commit -m"message" *
+git push origin master 
+npm run start
+git push origin master 
+cd bai tap ES6 
+cd visitgo 
+npm run start
+cd bai tap ES6
+cd visitgo 
+git add *
+git commit -m"message" *
+git push origin master 
+npm run start
+cd bai tap ES6 
+cd visitgo 
+git push origin master 
+npm run start
+cd bai tap ES6 
+cd visitgo 
+git commit -"message" *
+git push origin 
+add *
+npm run start
+git status
+git add *
+git commit -m"message" *
+git push origin master 
